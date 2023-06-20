@@ -13,7 +13,7 @@ O projeto também conta responsividade a dispositivos mobile, permitindo maior c
 
 Links úteis:
 
-(Adicione aqui o link do seu tik tok)
+(https://titok-clone-c8ad4.web.app/)
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaaas.araujo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-araujo-3a13a127b/)
