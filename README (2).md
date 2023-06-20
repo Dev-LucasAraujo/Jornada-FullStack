@@ -18,7 +18,7 @@ Links úteis:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucaaas.araujo/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-araujo-3a13a127b/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/55(11997933908))
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511997933908?text=Eai%2C+vi+seu+projeto+no+GitHub%21)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-LucasAraujo)](https://github.com/anuraghazra/github-readme-stats)
